@@ -188,7 +188,10 @@ print(classification_report(testing_b,predicted_values))
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/kumudhinithangaselvan/Ex-4-NN/assets/119394027/5b73d97d-aece-4e3d-966a-254840924cd1)
+
+ ![image](https://github.com/kumudhinithangaselvan/Ex-4-NN/assets/119394027/48c2be04-c2d2-4932-b1c3-2d9010977ccb)
+ 
+
 
 
 
